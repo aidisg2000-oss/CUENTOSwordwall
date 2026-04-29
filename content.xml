@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604291850336IS5YC</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260429185033P2TBF5</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Los cuentos tradicionales cobran vida 📚 </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de Aprendizaje – 3º Primaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777398024949</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>93feb8d0-1b60-448e-b3e2-917252613ff6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>BIENVENIDA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>BIENVENIDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>BIENVENIDA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>93feb8d0-1b60-448e-b3e2-917252613ff6</odePageId>
+      <odeBlockId>block-1777398100374-uh9md43wl</odeBlockId>
+      <blockName>📚 Bienvenidas y bienvenidos, “Exploradores y Exploradoras de los cuentos tradicionales”</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>93feb8d0-1b60-448e-b3e2-917252613ff6</odePageId>
+          <odeBlockId>block-1777398100374-uh9md43wl</odeBlockId>
+          <odeIdeviceId>idevice-1777398100372-byqrunsei</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4 style="text-align: center;"><strong>En esta Situación de Aprendizaje te convertirás en una persona exploradora de cuentos tradicionales. Investigarás algunos cuentos conocidos, descubrirás sus partes principales y crearás materiales digitales como una infografía interactiva y un juego en Wordwall para compartir lo aprendido de forma creativa y divertida.</strong></h4>
+<p><strong>📘 ¿Qué vamos a hacer?</strong><br />Vamos a conocer cuentos tradicionales, descubrir sus partes y crear nuestros propios recursos digitales.<br />-Leer cuentos<br />-Reconocer personajes<br />-Diferenciar inicio, nudo y desenlace<br />-Crear una infografía<br />-Jugar con quizzes</p>
+<p>📘<strong> ¿Qué vamos a aprender?</strong><br />Vamos a conocer cuentos tradicionales, descubrir sus partes y crear nuestros propios recursos digitales.</p>
+<p>Aprenderás a:</p>
+<p>📖 Leer y comprender cuentos tradicionales<br />👤 Reconocer personajes y elementos de la historia<br />🧩 Diferenciar inicio, nudo y desenlace<br />🎨 Crear una infografía digital<br />🎮 Jugar y aprender con quizzes interactivos</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777398100372-byqrunsei","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4 style=\"text-align: center;\"><strong>En esta Situación de Aprendizaje te convertirás en una persona exploradora de cuentos tradicionales. Investigarás algunos cuentos conocidos, descubrirás sus partes principales y crearás materiales digitales como una infografía interactiva y un juego en Wordwall para compartir lo aprendido de forma creativa y divertida.</strong></h4>\n<p><strong>📘 ¿Qué vamos a hacer?</strong><br />Vamos a conocer cuentos tradicionales, descubrir sus partes y crear nuestros propios recursos digitales.<br />-Leer cuentos<br />-Reconocer personajes<br />-Diferenciar inicio, nudo y desenlace<br />-Crear una infografía<br />-Jugar con quizzes</p>\n<p>📘<strong> ¿Qué vamos a aprender?</strong><br />Vamos a conocer cuentos tradicionales, descubrir sus partes y crear nuestros propios recursos digitales.</p>\n<p>Aprenderás a:</p>\n<p>📖 Leer y comprender cuentos tradicionales<br />👤 Reconocer personajes y elementos de la historia<br />🧩 Diferenciar inicio, nudo y desenlace<br />🎨 Crear una infografía digital<br />🎮 Jugar y aprender con quizzes interactivos</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777398498356-gj29utqdv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 1</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777398498356-gj29utqdv</odePageId>
+      <odeBlockId>block-1777398503467-1juc0ttyi</odeBlockId>
+      <blockName>DESCUBRIMOS CUENTOS TRADICIONALES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777398498356-gj29utqdv</odePageId>
+          <odeBlockId>block-1777398503467-1juc0ttyi</odeBlockId>
+          <odeIdeviceId>idevice-1777398503465-xpknd3nfb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📚 Los cuentos tradicionales<br />Un cuento tradicional es una historia que se ha contado de generación en generación. Suelen tener personajes como príncipes, animales o familias, y enseñan valores o lecciones.</p>
+<p>Algunos ejemplos son:</p>
+<p>Caperucita Roja<br />Los tres cerditos<br />Blancanieves</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777398503465-xpknd3nfb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📚 Los cuentos tradicionales<br />Un cuento tradicional es una historia que se ha contado de generación en generación. Suelen tener personajes como príncipes, animales o familias, y enseñan valores o lecciones.</p>\n<p>Algunos ejemplos son:</p>\n<p>Caperucita Roja<br />Los tres cerditos<br />Blancanieves</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777398498356-gj29utqdv</odePageId>
+      <odeBlockId>block-1777398571084-llsj17np9</odeBlockId>
+      <blockName>MEMORY GAME</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777398498356-gj29utqdv</odePageId>
+          <odeBlockId>block-1777398571084-llsj17np9</odeBlockId>
+          <odeIdeviceId>idevice-1777398571079-u9b85uxdn</odeIdeviceId>
+          <odeIdeviceTypeName>flipcards</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="flipcards-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1777398571079-u9b85uxdn" data-evaluationb="false" data-evaluationid="d8460670-5d1e-4445-b688-82767359f803"></div><div class="flipcards-instructions"><p>Realizarás un juego de memoria (memory game) en el que tendrás que emparejar imágenes, personajes o elementos de diferentes cuentos tradicionales.</p>
+<p>Este juego te ayudará a reconocer y recordar los cuentos de forma visual, divertida e interactiva.</p></div><div class="flipcards-DataGame js-hidden">{"typeGame":"FlipCards","author":"","randomCards":true,"instructions":"<p>Realizarás un juego de memoria (memory game) en el que tendrás que emparejar imágenes, personajes o elementos de diferentes cuentos tradicionales.</p>\n<p>Este juego te ayudará a reconocer y recordar los cuentos de forma visual, divertida e interactiva.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/caperucita.jpg","xBk":0.41163793103448276,"yBk":0.40086206896551724,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/4665f7ab7159129a42ec1b67235f2a7d.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/7b840b1fb9f03ad4d8be413f29b95a29.jpg","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/4665f7ab7159129a42ec1b67235f2a7d.png","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/bella.webp","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/7b840b1fb9f03ad4d8be413f29b95a29.jpg","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/caperucita.jpg","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""},{"url":"{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"","urlBk":"{{context_path}}/content/resources/bella.webp","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":""}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","percentajeCards":100,"version":1.3,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"d8460670-5d1e-4445-b688-82767359f803","imgCard":"","id":"idevice-1777398571079-u9b85uxdn","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayAgain":"Jugar otra vez","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgWeight":"Peso","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgCool":"¡Bien!","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgPreviousCard":"Anterior","msgNextCard":"Siguiente","msgNumQuestions":"Número de tarjetas","msgTrue":"Verdadero","msgFalse":"Falso","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","mgsAllQuestions":"¡Completadas las preguntas!","msgTrue1":"Has acertado. Es la cara correcta.","msgTrue2":"Has fallado. No es la cara correcta.","msgFalse1":"Has acertado. No es la cara correcta.","msgFalse2":"Has fallado. Es la cara correcta.","mgsClickCard":"Pulsa en la tarjeta","msgEndTime":"Acabó el tiempo de juego. Tu puntuación es %s.","msgEnd":"Finalizar","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Tarjetas de memoria"}}</div><a href="{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg" class="js-hidden flipcards-LinkImages">0</a><a href="{{context_path}}/content/resources/caperucita.jpg" class="js-hidden flipcards-LinkImagesBack">0</a><a href="{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg" class="js-hidden flipcards-LinkImages">1</a><a href="{{context_path}}/content/resources/4665f7ab7159129a42ec1b67235f2a7d.png" class="js-hidden flipcards-LinkImagesBack">1</a><a href="{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg" class="js-hidden flipcards-LinkImages">2</a><a href="{{context_path}}/content/resources/7b840b1fb9f03ad4d8be413f29b95a29.jpg" class="js-hidden flipcards-LinkImagesBack">2</a><a href="{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg" class="js-hidden flipcards-LinkImages">3</a><a href="{{context_path}}/content/resources/4665f7ab7159129a42ec1b67235f2a7d.png" class="js-hidden flipcards-LinkImagesBack">3</a><a href="{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg" class="js-hidden flipcards-LinkImages">4</a><a href="{{context_path}}/content/resources/bella.webp" class="js-hidden flipcards-LinkImagesBack">4</a><a href="{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg" class="js-hidden flipcards-LinkImages">5</a><a href="{{context_path}}/content/resources/7b840b1fb9f03ad4d8be413f29b95a29.jpg" class="js-hidden flipcards-LinkImagesBack">5</a><a href="{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg" class="js-hidden flipcards-LinkImages">6</a><a href="{{context_path}}/content/resources/caperucita.jpg" class="js-hidden flipcards-LinkImagesBack">6</a><a href="{{context_path}}/content/resources/7570b8e5048c76dcc0d3a5c79fd45339.jpg" class="js-hidden flipcards-LinkImages">7</a><a href="{{context_path}}/content/resources/bella.webp" class="js-hidden flipcards-LinkImagesBack">7</a><div class="flipcards-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777399351847-qd1i51jfl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 2</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777399351847-qd1i51jfl</odePageId>
+      <odeBlockId>block-1777399429534-40011i5h5</odeBlockId>
+      <blockName>PARTES DEL CUENTO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777399351847-qd1i51jfl</odePageId>
+          <odeBlockId>block-1777399429534-40011i5h5</odeBlockId>
+          <odeIdeviceId>idevice-1777399429527-8titkv47a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Parte del cuento<br />Explicación:<br />✨<strong> Inicio</strong><br />Se presentan los personajes y el lugar donde ocurre la historia.<br />🌀 <strong>Nudo</strong><br />Aparece el problema o el conflicto principal que deben resolver.<br />✅ <strong>Desenlace</strong><br />Se resuelve el problema y termina la historia con un final.<br />👥 <strong>Personajes</strong><br />Son los seres (personas, animales u objetos) que participan en la historia.<br />📍 <strong>Lugar</strong><br />Es el sitio o escenario donde ocurre toda la aventura.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777399429527-8titkv47a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Parte del cuento<br />Explicación:<br />✨<strong> Inicio</strong><br />Se presentan los personajes y el lugar donde ocurre la historia.<br />🌀 <strong>Nudo</strong><br />Aparece el problema o el conflicto principal que deben resolver.<br />✅ <strong>Desenlace</strong><br />Se resuelve el problema y termina la historia con un final.<br />👥 <strong>Personajes</strong><br />Son los seres (personas, animales u objetos) que participan en la historia.<br />📍 <strong>Lugar</strong><br />Es el sitio o escenario donde ocurre toda la aventura.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777399351847-qd1i51jfl</odePageId>
+      <odeBlockId>block-1777399640553-t8lv1lrku</odeBlockId>
+      <blockName>Relaciona</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777399351847-qd1i51jfl</odePageId>
+          <odeBlockId>block-1777399640553-t8lv1lrku</odeBlockId>
+          <odeIdeviceId>idevice-1777399640550-g2p2l3dng</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p>🎮 ACTIVIDAD<br />Realizarás una actividad de relacionar conceptos, en la que tendrás que unir cada parte del cuento con su definición correcta.</p>
+<p>Esta actividad te ayudará a comprender mejor cómo se estructura un cuento tradicional.</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p>🎮 ACTIVIDAD<br />Realizarás una actividad de relacionar conceptos, en la que tendrás que unir cada parte del cuento con su definición correcta.</p>\n<p>Esta actividad te ayudará a comprender mejor cómo se estructura un cuento tradicional.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ff0000","eText":"Personajes","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"La%20liebre%20y%20la%20tortuga."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ec2b09","eText":"Lugares.","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Bosque%2C%20campo%2C%20casa%20de%20la%20abuela."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#f20202","eText":"Inicio","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Hab%C3%ADa%20una%20vez..."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#eb0a0a","eText":"Nudo","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Ricitos%20de%20Oro%20entra%20en%20la%20casa%20de%20los%20tres%20osos%20sin%20permiso%2C%20prueba%20sus%20cosas%20y%20cuando%20los%20osos%20vuelven%20a%20casa%20la%20descubren%20dentro."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#f70202","eText":"Desenlace","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Color%C3%ADn%20colorado..."}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"d8460670-5d1e-4445-b688-82767359f803","id":"idevice-1777399640550-g2p2l3dng","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1777399640550-g2p2l3dng" data-evaluationb="false" data-evaluationid="d8460670-5d1e-4445-b688-82767359f803"></div><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777400121573-tw9t0cgwl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 3</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777400121573-tw9t0cgwl</odePageId>
+      <odeBlockId>block-1777400133139-rbrj9jiqo</odeBlockId>
+      <blockName>📚 ¡Hoy nos toca ser creadoras y creadores de infografías!Vamos a crear una infografía: una imagen que explica un cuento tradicional usando textos cortos, imágenes, colores y elementos visuales para ayudar a otras personas a comprender mejor la historia.
+¡Ojo! Esta actividad va a ser evaluada, tanto el proceso como el resultado final de la infografía.
+Lee estas instrucciones con atención antes de empezar.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777400121573-tw9t0cgwl</odePageId>
+          <odeBlockId>block-1777400133139-rbrj9jiqo</odeBlockId>
+          <odeIdeviceId>idevice-1777400133134-ihznr1pq2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. 📖 Decide de qué va a tratar tu infografía</strong><br />Piensa:</p>
+<p>¿Qué cuento tradicional vas a explicar?<br />¿Qué personajes aparecen?<br />¿Cuál es el inicio, el nudo y el desenlace?<br />¿A quién se la vas a enseñar? (otros niños y niñas, profesorado, familias…)<br />Saber quién verá tu infografía te ayudará a elegir el lenguaje y el diseño.</p>
+<p> <br /><strong>2. 📝 Planifica tu infografía</strong><br />Antes de crearla en el ordenador debes:</p>
+<p>Hacer un pequeño boceto de cómo será tu infografía<br />Decidir dónde irá el título<br />Pensar qué pondrás en cada parte (personajes, inicio, nudo, desenlace…)<br />Elegir colores, imágenes o iconos<br /> <br /><strong>3. 📚 Busca información</strong><br />Para completar tu infografía:</p>
+<p>Usa cuentos que ya hemos trabajado en clase<br />Explica con tus propias palabras<br />No copies textos largos<br />Usa imágenes permitidas o propias<br />Recuerda: investigar es comprender, no copiar.</p>
+<p> <br /><strong>4. 🔐 Seguridad digital</strong><br />Cuando uses Internet o aplicaciones:</p>
+<p>No entres en páginas desconocidas<br />No compartas datos personales<br />Pide ayuda si tienes dudas<br /> <br /><strong>5. 🧩 Organiza la información</strong><br />Para que la infografía se entienda bien:</p>
+<p>Usa frases cortas y claras<br />Separa las ideas en partes: personajes, inicio, nudo, desenlace<br />Destaca lo importante con colores o tamaños diferentes<br />Evita demasiado texto<br /> <br /><strong>6. 👥 Reparto de roles</strong><br />En grupo podéis organizaros así:</p>
+<p>🎨 Diseñador/a: colores, imágenes y formato<br />✍️ Redactor/a: escribe los textos<br />📖 Lector/a: revisa el cuento<br />🧠 Coordinador/a: organiza el trabajo<br />👉 Todos los miembros deben participar.</p>
+<p> <br /><strong>7. 💻 Cómo usar Canva o Genially</strong><br />Elige una plantilla<br />Sustituye los textos por los tuyos<br />Añade imágenes o iconos<br />Incluye un elemento interactivo (vídeo, enlace o imagen)<br /> <br /><strong>8. 👀 Haz tu infografía visual</strong><br />Una buena infografía debe “entrar por los ojos”:</p>
+<p>Usa más imágenes que texto<br />Ordena bien la información<br />Usa esquemas o dibujos<br /> <br /><strong>9. ♿ Hazla accesible</strong><br />Para que todos y todas puedan entenderla:</p>
+<p>Usa letra clara y grande<br />Evita colores que no se vean bien<br />Deja espacios entre elementos<br />No sobrecargues el diseño<br /> <br /><strong>10. 🔍 Revisa antes de entregar</strong><br />Comprueba:</p>
+<p>¿Tiene título?<br />¿Se entienden personajes y partes del cuento?<br />¿Está ordenada?<br />¿Está bien escrita?<br />¿Es visual y clara?</p>
+<p>Para entregar la infografía pega el enlace en el equipo de TEAMS de tu clase, incluyendo en el mensaje los componentes de tu equipo de investigación.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777400133134-ihznr1pq2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. 📖 Decide de qué va a tratar tu infografía</strong><br />Piensa:</p>\n<p>¿Qué cuento tradicional vas a explicar?<br />¿Qué personajes aparecen?<br />¿Cuál es el inicio, el nudo y el desenlace?<br />¿A quién se la vas a enseñar? (otros niños y niñas, profesorado, familias…)<br />Saber quién verá tu infografía te ayudará a elegir el lenguaje y el diseño.</p>\n<p> <br /><strong>2. 📝 Planifica tu infografía</strong><br />Antes de crearla en el ordenador debes:</p>\n<p>Hacer un pequeño boceto de cómo será tu infografía<br />Decidir dónde irá el título<br />Pensar qué pondrás en cada parte (personajes, inicio, nudo, desenlace…)<br />Elegir colores, imágenes o iconos<br /> <br /><strong>3. 📚 Busca información</strong><br />Para completar tu infografía:</p>\n<p>Usa cuentos que ya hemos trabajado en clase<br />Explica con tus propias palabras<br />No copies textos largos<br />Usa imágenes permitidas o propias<br />Recuerda: investigar es comprender, no copiar.</p>\n<p> <br /><strong>4. 🔐 Seguridad digital</strong><br />Cuando uses Internet o aplicaciones:</p>\n<p>No entres en páginas desconocidas<br />No compartas datos personales<br />Pide ayuda si tienes dudas<br /> <br /><strong>5. 🧩 Organiza la información</strong><br />Para que la infografía se entienda bien:</p>\n<p>Usa frases cortas y claras<br />Separa las ideas en partes: personajes, inicio, nudo, desenlace<br />Destaca lo importante con colores o tamaños diferentes<br />Evita demasiado texto<br /> <br /><strong>6. 👥 Reparto de roles</strong><br />En grupo podéis organizaros así:</p>\n<p>🎨 Diseñador/a: colores, imágenes y formato<br />✍️ Redactor/a: escribe los textos<br />📖 Lector/a: revisa el cuento<br />🧠 Coordinador/a: organiza el trabajo<br />👉 Todos los miembros deben participar.</p>\n<p> <br /><strong>7. 💻 Cómo usar Canva o Genially</strong><br />Elige una plantilla<br />Sustituye los textos por los tuyos<br />Añade imágenes o iconos<br />Incluye un elemento interactivo (vídeo, enlace o imagen)<br /> <br /><strong>8. 👀 Haz tu infografía visual</strong><br />Una buena infografía debe “entrar por los ojos”:</p>\n<p>Usa más imágenes que texto<br />Ordena bien la información<br />Usa esquemas o dibujos<br /> <br /><strong>9. ♿ Hazla accesible</strong><br />Para que todos y todas puedan entenderla:</p>\n<p>Usa letra clara y grande<br />Evita colores que no se vean bien<br />Deja espacios entre elementos<br />No sobrecargues el diseño<br /> <br /><strong>10. 🔍 Revisa antes de entregar</strong><br />Comprueba:</p>\n<p>¿Tiene título?<br />¿Se entienden personajes y partes del cuento?<br />¿Está ordenada?<br />¿Está bien escrita?<br />¿Es visual y clara?</p>\n<p>Para entregar la infografía pega el enlace en el equipo de TEAMS de tu clase, incluyendo en el mensaje los componentes de tu equipo de investigación.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777400121573-tw9t0cgwl</odePageId>
+      <odeBlockId>block-1777400715629-8zrv1t34f</odeBlockId>
+      <blockName>VIDEOTUTORIAL DE CÓMO HACER INFOGRAFÍAS POR SI SE TIENEN DUDAS</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777400121573-tw9t0cgwl</odePageId>
+          <odeBlockId>block-1777400715629-8zrv1t34f</odeBlockId>
+          <odeIdeviceId>idevice-1777400715624-rkh5qtyli</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.youtube.com/embed/BBGIAhtrlng" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777400121573-tw9t0cgwl</odePageId>
+      <odeBlockId>block-1777400905155-yr1dw6047</odeBlockId>
+      <blockName>TUTORIAL 2.0</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777400121573-tw9t0cgwl</odePageId>
+          <odeBlockId>block-1777400905155-yr1dw6047</odeBlockId>
+          <odeIdeviceId>idevice-1777400905152-mt9mlz2gh</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.youtube.com/embed/rk_m6NY3s1o" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777400954243-0srq5yjw3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 4</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 4</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777400954243-0srq5yjw3</odePageId>
+      <odeBlockId>block-1777401107386-4wdt50krv</odeBlockId>
+      <blockName>📚🎤 Sesión 4. Presentamos nuestro trabajo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777400954243-0srq5yjw3</odePageId>
+          <odeBlockId>block-1777401107386-4wdt50krv</odeBlockId>
+          <odeIdeviceId>idevice-1777401107381-4pqnloytd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Como habéis aprendido mucho sobre los cuentos tradicionales, hoy vamos a compartir con el resto de la clase vuestro trabajo.</p>
+<p>En esta presentación, cada grupo expondrá:</p>
+<p>🎨 Su infografía sobre el cuento tradicional<br />📖 Explicará brevemente qué cuento ha elegido y por qué<br />🧩 Describirá los personajes y las partes del cuento (inicio, nudo y desenlace)<br />💡 Contará lo que más le ha gustado del trabajo realizado<br />⏱️ Tiempo máximo: 3 minutos por grupo.</p>
+<p> <br />Después de que todos los grupos hayan presentado, completaréis una ficha para autoevaluar lo que habéis aprendido y reflexionar sobre vuestro trabajo.</p>
+<p> <br />📌 ¡Ojo! Esta actividad va a ser evaluada (la exposición oral y la claridad de la explicación).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777401107381-4pqnloytd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como habéis aprendido mucho sobre los cuentos tradicionales, hoy vamos a compartir con el resto de la clase vuestro trabajo.</p>\n<p>En esta presentación, cada grupo expondrá:</p>\n<p>🎨 Su infografía sobre el cuento tradicional<br />📖 Explicará brevemente qué cuento ha elegido y por qué<br />🧩 Describirá los personajes y las partes del cuento (inicio, nudo y desenlace)<br />💡 Contará lo que más le ha gustado del trabajo realizado<br />⏱️ Tiempo máximo: 3 minutos por grupo.</p>\n<p> <br />Después de que todos los grupos hayan presentado, completaréis una ficha para autoevaluar lo que habéis aprendido y reflexionar sobre vuestro trabajo.</p>\n<p> <br />📌 ¡Ojo! Esta actividad va a ser evaluada (la exposición oral y la claridad de la explicación).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777401003234-c1phfxtbg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 5</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 5</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777401003234-c1phfxtbg</odePageId>
+      <odeBlockId>block-1777401357800-9hilusga0</odeBlockId>
+      <blockName>CREAMOS UN JUEGO EN WORDWALL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777401003234-c1phfxtbg</odePageId>
+          <odeBlockId>block-1777401357800-9hilusga0</odeBlockId>
+          <odeIdeviceId>idevice-1777401357798-s5jiasojg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Objetivo de la sesión: Crear un juego educativo sobre los cuentos tradicionales que habéis trabajado en esta situación de aprendizaje.</strong></p>
+<p><strong>¡Vamos a comprobar cuánto habéis aprendido sobre los cuentos!</strong></p>
+<p>🧠 1. Antes de empezar a crear tu juego<br />Antes de abrir Wordwall, piensa:</p>
+<p>¿Qué cuento o cuentos vas a trabajar en tu juego?<br />¿A quién va dirigido? (compañeros y compañeras de clase, profesorado, familias…)<br />¿Qué quieres repasar? (personajes, partes del cuento, moraleja, etc.)<br /> <br />🎯 2. ¿Qué quieres conseguir con tu juego?<br />Piensa qué deben aprender las personas que jueguen:</p>
+<p>¿Qué partes del cuento deben recordar?<br />¿Qué personajes deben reconocer?<br />¿Qué información es más importante?<br />Haz un pequeño plan:</p>
+<p>📝 Título del juego<br />📖 Contenido del juego (qué cuentos o partes trabajas)<br />❓ Tipo de preguntas o actividades<br />🖼️ Imágenes que puedes usar<br /> <br />🔎 3. Búsqueda de información<br />Si necesitas repasar cuentos o ideas:</p>
+<p>Usa los cuentos trabajados en clase<br />No copies textos largos, usa tus propias palabras<br />Utiliza imágenes adecuadas y libres de derechos<br /> <br />🔐 4. Seguridad digital<br />Cuando uses Internet:</p>
+<p>No entres en páginas desconocidas<br />No compartas datos personales<br />Pregunta si tienes dudas<br /> <br />👥 5. Roles del equipo<br />Para trabajar mejor podéis organizaros así:</p>
+<p>🎨 Diseñador/a → elige el formato y diseño del juego<br />✍️ Guionista → crea las preguntas y respuestas<br />🔍 Investigador/a → revisa la información de los cuentos<br />💻 Montador/a → crea el juego en Wordwall<br />✔️ Revisor/a → comprueba que todo esté correcto<br />👉 Todos los miembros deben participar.</p>
+<p> <br />💻 6. Creación del juego en Wordwall<br />Sigue estos pasos:</p>
+<p>Entra en 👉 <a href="https://wordwall.net" title="">https://wordwall.net</a><br />Regístrate o inicia sesión<br />Elige una plantilla:Quiz<br />Emparejar<br />Ordenar elementos<br />Crea entre 4 y 8 preguntas o actividades<br />Revisa las respuestas<br />Comprueba la ortografía<br />Haz pruebas del juego antes de guardarlo<br /> <br />♿ 7. Haz tu juego accesible<br />Usa palabras sencillas<br />Evita frases largas<br />Usa imágenes claras<br />Asegúrate de que todo se entiende bien<br /> <br />🔍 8. Revisión final<br />Antes de entregar, comprueba:</p>
+<p>¿Se entiende el juego?<br />¿Las preguntas están claras?<br />¿Las respuestas son correctas?<br />¿Es divertido jugarlo?<br />¿Ayuda a aprender sobre los cuentos tradicionales?<br /> <br />📤 Entrega<br />Cuando termines, pega el enlace del juego en TEAMS junto con el nombre del grupo.</p>
+<p> <br />⚠️ ¡Importante!<br />Esta actividad será evaluada, tanto el proceso de creación como el juego final.</p>
+<p>  <br /> <br /> <br /> <br /> <br /> </p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777401357798-s5jiasojg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Objetivo de la sesión: Crear un juego educativo sobre los cuentos tradicionales que habéis trabajado en esta situación de aprendizaje.</strong></p>\n<p><strong>¡Vamos a comprobar cuánto habéis aprendido sobre los cuentos!</strong></p>\n<p>🧠 1. Antes de empezar a crear tu juego<br />Antes de abrir Wordwall, piensa:</p>\n<p>¿Qué cuento o cuentos vas a trabajar en tu juego?<br />¿A quién va dirigido? (compañeros y compañeras de clase, profesorado, familias…)<br />¿Qué quieres repasar? (personajes, partes del cuento, moraleja, etc.)<br /> <br />🎯 2. ¿Qué quieres conseguir con tu juego?<br />Piensa qué deben aprender las personas que jueguen:</p>\n<p>¿Qué partes del cuento deben recordar?<br />¿Qué personajes deben reconocer?<br />¿Qué información es más importante?<br />Haz un pequeño plan:</p>\n<p>📝 Título del juego<br />📖 Contenido del juego (qué cuentos o partes trabajas)<br />❓ Tipo de preguntas o actividades<br />🖼️ Imágenes que puedes usar<br /> <br />🔎 3. Búsqueda de información<br />Si necesitas repasar cuentos o ideas:</p>\n<p>Usa los cuentos trabajados en clase<br />No copies textos largos, usa tus propias palabras<br />Utiliza imágenes adecuadas y libres de derechos<br /> <br />🔐 4. Seguridad digital<br />Cuando uses Internet:</p>\n<p>No entres en páginas desconocidas<br />No compartas datos personales<br />Pregunta si tienes dudas<br /> <br />👥 5. Roles del equipo<br />Para trabajar mejor podéis organizaros así:</p>\n<p>🎨 Diseñador/a → elige el formato y diseño del juego<br />✍️ Guionista → crea las preguntas y respuestas<br />🔍 Investigador/a → revisa la información de los cuentos<br />💻 Montador/a → crea el juego en Wordwall<br />✔️ Revisor/a → comprueba que todo esté correcto<br />👉 Todos los miembros deben participar.</p>\n<p> <br />💻 6. Creación del juego en Wordwall<br />Sigue estos pasos:</p>\n<p>Entra en 👉 <a href=\"https://wordwall.net\" title=\"\">https://wordwall.net</a><br />Regístrate o inicia sesión<br />Elige una plantilla:Quiz<br />Emparejar<br />Ordenar elementos<br />Crea entre 4 y 8 preguntas o actividades<br />Revisa las respuestas<br />Comprueba la ortografía<br />Haz pruebas del juego antes de guardarlo<br /> <br />♿ 7. Haz tu juego accesible<br />Usa palabras sencillas<br />Evita frases largas<br />Usa imágenes claras<br />Asegúrate de que todo se entiende bien<br /> <br />🔍 8. Revisión final<br />Antes de entregar, comprueba:</p>\n<p>¿Se entiende el juego?<br />¿Las preguntas están claras?<br />¿Las respuestas son correctas?<br />¿Es divertido jugarlo?<br />¿Ayuda a aprender sobre los cuentos tradicionales?<br /> <br />📤 Entrega<br />Cuando termines, pega el enlace del juego en TEAMS junto con el nombre del grupo.</p>\n<p> <br />⚠️ ¡Importante!<br />Esta actividad será evaluada, tanto el proceso de creación como el juego final.</p>\n<p>  <br /> <br /> <br /> <br /> <br /> </p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777401009350-8qzuhtlkq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 6</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 6</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777401009350-8qzuhtlkq</odePageId>
+      <odeBlockId>block-1777401648348-6i7ae7pbe</odeBlockId>
+      <blockName>🧩📚 Sesión 6. Jugamos, repasamos y demostramos lo que hemos aprendido</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777401009350-8qzuhtlkq</odePageId>
+          <odeBlockId>block-1777401648348-6i7ae7pbe</odeBlockId>
+          <odeIdeviceId>idevice-1777401648344-es7ihm52q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>En esta sesión vamos a realizar diferentes actividades para repasar todo lo que hemos aprendido sobre los cuentos tradicionales.</strong></p>
+<p><strong>🎮 1. Jugamos con los trabajos de los compañeros y compañeras</strong><br />Probaremos los juegos creados por otros grupos para seguir repasando:</p>
+<p>Personajes de los cuentos<br />Partes del cuento (inicio, nudo y desenlace)<br />Cuentos tradicionales trabajados en clase<br /> <br /><strong>🧩 2. Resolvemos un crucigrama</strong><br />En esta actividad completarás un crucigrama sobre cuentos tradicionales.</p>
+<p>Tendrás que recordar:</p>
+<p>👤 Personajes<br />📖 Títulos de cuentos<br />🧩 Partes del cuento<br />💡 Conceptos como moraleja o infografía<br />👉 El objetivo es aprender y repasar de forma divertida.</p>
+<p> <br />📝 3. <strong>Autoevaluación</strong><br />Al finalizar, completarás una autoevaluación (en una ficha) para reflexionar sobre tu trabajo y lo que has aprendido.</p>
+<p>Piensa en:</p>
+<p>Qué he aprendido<br />Qué he hecho bien<br />Qué me ha resultado más difícil<br />Qué puedo mejorar<br /> <br />⚠️ ¡Importante!<br />Esta sesión será evaluada, teniendo en cuenta la participación, la realización del crucigrama y la autoevaluación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777401648344-es7ihm52q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>En esta sesión vamos a realizar diferentes actividades para repasar todo lo que hemos aprendido sobre los cuentos tradicionales.</strong></p>\n<p><strong>🎮 1. Jugamos con los trabajos de los compañeros y compañeras</strong><br />Probaremos los juegos creados por otros grupos para seguir repasando:</p>\n<p>Personajes de los cuentos<br />Partes del cuento (inicio, nudo y desenlace)<br />Cuentos tradicionales trabajados en clase<br /> <br /><strong>🧩 2. Resolvemos un crucigrama</strong><br />En esta actividad completarás un crucigrama sobre cuentos tradicionales.</p>\n<p>Tendrás que recordar:</p>\n<p>👤 Personajes<br />📖 Títulos de cuentos<br />🧩 Partes del cuento<br />💡 Conceptos como moraleja o infografía<br />👉 El objetivo es aprender y repasar de forma divertida.</p>\n<p> <br />📝 3. <strong>Autoevaluación</strong><br />Al finalizar, completarás una autoevaluación (en una ficha) para reflexionar sobre tu trabajo y lo que has aprendido.</p>\n<p>Piensa en:</p>\n<p>Qué he aprendido<br />Qué he hecho bien<br />Qué me ha resultado más difícil<br />Qué puedo mejorar<br /> <br />⚠️ ¡Importante!<br />Esta sesión será evaluada, teniendo en cuenta la participación, la realización del crucigrama y la autoevaluación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777401009350-8qzuhtlkq</odePageId>
+      <odeBlockId>block-1777401733048-c6weo91ek</odeBlockId>
+      <blockName>Crucigrama</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777401009350-8qzuhtlkq</odePageId>
+          <odeBlockId>block-1777401733048-c6weo91ek</odeBlockId>
+          <odeIdeviceId>idevice-1777401733046-nfpongqga</odeIdeviceId>
+          <odeIdeviceTypeName>crossword</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="crucigrama-IDevice">
+       <div class="game-evaluation-ids js-hidden" data-id="idevice-1777401733046-nfpongqga" data-evaluationb="false" data-evaluationid="d8460670-5d1e-4445-b688-82767359f803"></div>
+            <div class="crucigrama-version js-hidden">1</div>
+            <div class="crucigrama-feedback-game"></div>
+            <div class="crucigrama-instructions gameQP-instructions"><p>Completa el siguiente crucigrama con el vocabulario aprendido a lo largo de estas sesiones.</p></div>
+            <div class="crucigrama-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%E0%E7%F1%FB%F5%E0%F3%FF%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D1%FD%FF%E2%FE%F7%E6%F3%B2%F7%FE%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B2%F1%E0%E7%F1%FB%F5%E0%F3%FF%F3%B2%F1%FD%FC%B2%F7%FE%B2%E4%FD%F1%F3%F0%E7%FE%F3%E0%FB%FD%B2%F3%E2%E0%F7%FC%F6%FB%F6%FD%B2%F3%B2%FE%FD%B2%FE%F3%E0%F5%FD%B2%F6%F7%B2%F7%E1%E6%F3%E1%B2%E1%F7%E1%FB%FD%FC%F7%E1%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%C2%F7%E0%E1%FD%FC%F3%F8%F7%E1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C1%F7%E0%F7%E1%B2%E3%E7%F7%B2%F3%E2%F3%E0%F7%F1%F7%FC%B2%F7%FC%B2%F7%FE%B2%F1%E7%F7%FC%E6%FD%B2%EB%B2%E2%F3%E0%E6%FB%F1%FB%E2%F3%FC%B2%F7%FC%B2%FE%F3%B2%FA%FB%E1%E6%FD%E0%FB%F3%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%F3%A3%AA%A4%F4%A6%F1%A7%BF%AA%F1%A0%F4%BF%A6%F6%A4%A1%BF%AA%A2%A5%A6%BF%AA%A5%A4%A6%F7%AA%F0%A5%F7%F0%F3%A1%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DB%DC%C6%C0%DD%D6%C7%D1%D1%DBA%DC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%E0%FB%FF%F7%E0%F3%B2%E2%F3%E0%E6%F7%B2%F6%F7%FE%B2%F1%E7%F7%FC%E6%FD%B2%F6%FD%FC%F6%F7%B2%E1%F7%B2%E2%E0%F7%E1%F7%FC%E6%F3%FC%B2%FE%FD%E1%B2%E2%F7%E0%E1%FD%FC%F3%F8%F7%E1%B2%EB%B2%F7%FE%B2%FE%E7%F5%F3%E0%B2%F6%FD%FC%F6%F7%B2%E1%E7%F1%F7%F6%F7%B2%FE%F3%B2%FA%FB%E1%E6%FD%E0%FB%F3%BC%B0%BE%B0%EA%B0%A8%A2%BC%A7%A4%A4%A4%A4%A4%A4%A4%A4%A4%A4%A4%A4%A4%A4%A5%BE%B0%EB%B0%A8%A2%BC%A4%A3%A3%A3%A3%A3%A3%A3%A3%A3%A3%A3%A3%A3%A3%A0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DC%E7%F6%FD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%F3%E0%E6%F7%B2%F6%F7%FE%B2%F1%E7%F7%FC%E6%FD%B2%F6%FD%FC%F6%F7%B2%F3%E2%F3%E0%F7%F1%F7%B2%F7%FE%B2%E2%E0%FD%F0%FE%F7%FF%F3%B2%FD%B2%F1%FD%FC%F4%FE%FB%F1%E6%FD%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D6%D7%C1%D7%DC%DE%D3%D1%D7%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%F3%E0%E6%F7%B2%F4%FB%FC%F3%FE%B2%F6%F7%FE%B2%F1%E7%F7%FC%E6%FD%B2%F6%FD%FC%F6%F7%B2%E1%F7%B2%E0%F7%E1%E7%F7%FE%E4%F7%B2%F7%FE%B2%E2%E0%FD%F0%FE%F7%FF%F3%B2%EB%B2%E6%F7%E0%FF%FB%FC%F3%B2%FE%F3%B2%FA%FB%E1%E6%FD%E0%FB%F3%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DE%C7%D5%D3%C0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%E2%F3%F1%FB%FD%B2%F6%FD%FC%F6%F7%B2%FD%F1%E7%E0%E0%F7%B2%FE%F3%B2%FA%FB%E1%E6%FD%E0%FB%F3%BE%B2%F1%FD%FF%FD%B2%E7%FC%B2%F0%FD%E1%E3%E7%F7%BE%B2%E7%FC%F3%B2%F1%F3%E1%F3%B2%FD%B2%E7%FC%F3%B2%F1%FB%E7%F6%F3%F6%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DF%DD%C0%D3%DE%D7%D8%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%FC%E1%F7c%F3%FC%E8%F3%B2%FD%B2%FE%F7%F1%F1%FBa%FC%B2%E3%E7%F7%B2%F6%F7%F8%F3%B2%F7%FE%B2%F1%E7%F7%FC%E6%FD%B2%F3%FE%B2%F4%FB%FC%F3%FE%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%E6%E0%E7%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FE%F6%F7%B0%A8%E6%E0%E7%F7%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F6%AA%A6%A4%A2%A4%A5%A2%BF%A7%F6%A3%F7%BF%A6%A6%A6%A7%BF%F0%A4%AA%AA%BF%AA%A0%A5%A4%A5%A1%A7%AB%F4%AA%A2%A1%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%A3%A2%A2%B0%BE%B0%F6%FB%F4%F4%FB%F1%E7%FE%E6%EB%B0%A8%B0%A3%A2%A2%B0%BE%B0%E6%FB%FF%F7%B0%A8%B0%A2%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A5%A6%A2%A3%A5%A1%A1%A2%A6%A4%BF%FC%F4%E2%FD%FC%F5%E3%F5%F3%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%FD%B2%F7%EA%E2%E0%F7%E1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%F5%E1%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C5%E0%FD%E6%F7%B0%A8%B0%D7%E1%F1%E0%FB%F0%F7%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%EB%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C0%F7%E1%E2%FD%FC%F6%F7%E0%BC%B2%C1%FB%B2%F6%E7%F6%F3%E1%BE%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C1%F7%F5%E7%FB%E0%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%E0%E7%F1%FB%F5%E0%F3%FF%F3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%FE%F3%E1%B2%E1%FD%FE%E7%F1%FB%FD%FC%F7%E1%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B0%D7%FE%B2%F8%E7%F7%F5%FD%B2%FA%F3%B2%E6%F7%E0%FF%FB%FC%F3%F6%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B2%D3%F1%FB%F7%E0%E6%FD%E1%A8%B2%B7%E1%B2%F6%F7%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%C5%FD%E0%F6%B0%A8%B0%DA%F3%E8%B2%F1%FE%FB%F1%B2%F7%FC%B2%F7%FE%B2%F1%E7%F3%F6%E0%F3%F6%FD%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%E2%F3%E0%F3%B2%E4%F7%E0%B2%FE%F3%B2%F6%F7%F4%FB%FC%FB%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DA%FD%E0%FB%E8%FD%FC%E6%F3%FE%E1%B0%A8%B0%DA%FD%E0%FB%E8%FD%FC%E6%F3%FE%F7%E1%B0%BE%B0%FF%E1%F5%C4%F7%E0%E6%FB%F1%F3%FE%E1%B0%A8%B0%C4%F7%E0%E6%FB%F1%F3%FE%F7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%FD%F1%E7%FE%E6%F3%E0%B2%F6%F7%F4%FB%FC%FB%F1%FB%FD%FC%F7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D0%F3%F1%F9%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%FD%F1%E7%FE%E6%F3%E0%B2%FB%FF%F3%F5%F7%FC%B2%F6%F7%B2%F4%FD%FC%F6%FD%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%C5%FD%E0%F6%B0%A8%B0%C2%F3%FE%F3%F0%E0%F3%B0%EF%EF</div>
+            <a href="{{context_path}}/content/resources/4665f7ab7159129a42ec1b67235f2a7d.png" class="js-hidden crucigrama-LinkImages">0</a>
+            
+            
+            
+            <div class="crucigrama-bns js-hidden">Su navegador no es compatible con esta herramienta.</div>
+        </div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777401009350-8qzuhtlkq</odePageId>
+      <odeBlockId>block-1777478505416-by1kaeq14</odeBlockId>
+      <blockName>Autoevaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777401009350-8qzuhtlkq</odePageId>
+          <odeBlockId>block-1777478505416-by1kaeq14</odeBlockId>
+          <odeIdeviceId>idevice-1777478505412-018h2s6mb</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777478505412-018h2s6mb" title="" href="{{context_path}}/content/resources/Gemini_Generated_Image_wanrlswanrlswanr.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Gemini_Generated_Image_wanrlswanrlswanr.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777478505412-018h2s6mb","img_0":{"img":"{{context_path}}/content/resources/Gemini_Generated_Image_wanrlswanrlswanr.png","thumbnail":"{{context_path}}/content/resources/Gemini_Generated_Image_wanrlswanrlswanr.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777401217794-56md54ooi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DICCIONARIO</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DICCIONARIO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777401217794-56md54ooi</odePageId>
+      <odeBlockId>block-1777401220480-7jfexlvr1</odeBlockId>
+      <blockName>📖 Diccionario de términos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777401217794-56md54ooi</odePageId>
+          <odeBlockId>block-1777401220480-7jfexlvr1</odeBlockId>
+          <odeIdeviceId>idevice-1777401220479-pj4eyo1k3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta unidad hemos aprendido algunos conceptos importantes relacionados con los cuentos tradicionales.</p>
+<p> <br />📚 Cuento tradicional<br />Historia que se transmite de generación en generación y que suele tener personajes, enseñanzas y una estructura clara.</p>
+<p> <br />👤 Personajes<br />Seres que participan en el cuento, como animales, personas o seres fantásticos.</p>
+<p> <br />🧩 Inicio<br />Parte del cuento donde se presentan los personajes y el lugar donde ocurre la historia.</p>
+<p> <br />⚠️ Nudo<br />Parte del cuento donde aparece el problema o conflicto.</p>
+<p> <br />🎯 Desenlace<br />Parte final del cuento donde se resuelve el problema y termina la historia.</p>
+<p> <br />🏞️ Lugar<br />Espacio donde sucede la historia (bosque, casa, ciudad, etc.).</p>
+<p> <br />🎨 Infografía<br />Recurso visual que combina imágenes, colores y texto breve para explicar información de forma clara y atractiva.</p>
+<p> <br />🎮 Wordwall<br />Herramienta digital que permite crear juegos interactivos para aprender de forma divertida.</p>
+<p> <br />💡 Moraleja<br />Enseñanza o lección que nos deja un cuento al final, y que nos ayuda a aprender algo importante para la vida.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777401220479-pj4eyo1k3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta unidad hemos aprendido algunos conceptos importantes relacionados con los cuentos tradicionales.</p>\n<p> <br />📚 Cuento tradicional<br />Historia que se transmite de generación en generación y que suele tener personajes, enseñanzas y una estructura clara.</p>\n<p> <br />👤 Personajes<br />Seres que participan en el cuento, como animales, personas o seres fantásticos.</p>\n<p> <br />🧩 Inicio<br />Parte del cuento donde se presentan los personajes y el lugar donde ocurre la historia.</p>\n<p> <br />⚠️ Nudo<br />Parte del cuento donde aparece el problema o conflicto.</p>\n<p> <br />🎯 Desenlace<br />Parte final del cuento donde se resuelve el problema y termina la historia.</p>\n<p> <br />🏞️ Lugar<br />Espacio donde sucede la historia (bosque, casa, ciudad, etc.).</p>\n<p> <br />🎨 Infografía<br />Recurso visual que combina imágenes, colores y texto breve para explicar información de forma clara y atractiva.</p>\n<p> <br />🎮 Wordwall<br />Herramienta digital que permite crear juegos interactivos para aprender de forma divertida.</p>\n<p> <br />💡 Moraleja<br />Enseñanza o lección que nos deja un cuento al final, y que nos ayuda a aprender algo importante para la vida.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777402097607-fnp5ddo62</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MATERIAL DE APOYO O AMPLIACIÓN</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MATERIAL DE APOYO O AMPLIACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>MATERIAL DE APOYO O AMPLIACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777402097607-fnp5ddo62</odePageId>
+      <odeBlockId>block-1777402231314-d880firuh</odeBlockId>
+      <blockName>MATERIALES ADICIONALES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777402097607-fnp5ddo62</odePageId>
+          <odeBlockId>block-1777402231314-d880firuh</odeBlockId>
+          <odeIdeviceId>idevice-1777402231310-1y913yejs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>✍️ TE RETO A QUE CAMBIES EL FINAL AL CUENTO</strong><br />Imagina un final diferente para un cuento tradicional.</p>
+<p>Ejemplo: ¿Y si el lobo se hiciera amigo de Caperucita?</p>
+<p>Escribe tu nueva versión.</p>
+<p><strong>🎮 4. Reto digital</strong><br />Crea nuevas preguntas para añadir al juego de Wordwall o inventa un nuevo memory game sobre cuentos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777402231310-1y913yejs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>✍️ TE RETO A QUE CAMBIES EL FINAL AL CUENTO</strong><br />Imagina un final diferente para un cuento tradicional.</p>\n<p>Ejemplo: ¿Y si el lobo se hiciera amigo de Caperucita?</p>\n<p>Escribe tu nueva versión.</p>\n<p><strong>🎮 4. Reto digital</strong><br />Crea nuevas preguntas para añadir al juego de Wordwall o inventa un nuevo memory game sobre cuentos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777479009740-j89hclhiu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN DE LAS ACTIVIDADES</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN DE LAS ACTIVIDADES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777479009740-j89hclhiu</odePageId>
+      <odeBlockId>block-1777479013862-nqpkv7osf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777479009740-j89hclhiu</odePageId>
+          <odeBlockId>block-1777479013862-nqpkv7osf</odeBlockId>
+          <odeIdeviceId>idevice-1777479013860-mui35we3t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se pueden observar las diferentes rúbricas de las evaluaciones de:</p>
+<ul>
+<li>LA INFOGRAFÍA</li>
+<li>EXPOSICIÓN ORAL</li>
+<li>JUEGO WORDWALL<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777479013860-mui35we3t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se pueden observar las diferentes rúbricas de las evaluaciones de:</p>\n<ul>\n<li>LA INFOGRAFÍA</li>\n<li>EXPOSICIÓN ORAL</li>\n<li>JUEGO WORDWALL<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777479009740-j89hclhiu</odePageId>
+      <odeBlockId>block-1777479057566-cd3d4gcd8</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777479009740-j89hclhiu</odePageId>
+          <odeBlockId>block-1777479057566-cd3d4gcd8</odeBlockId>
+          <odeIdeviceId>idevice-1777479057564-eqmqwyhzz</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Rúbrica para evaluar una infografía</caption><thead><tr><th>&nbsp;</th><th>4 Excelente</th><th>3 Satisfactorio</th><th>2 Mejorable</th><th>1 Insuficiente</th></tr></thead><tbody><tr><th>Patrón organizativo</th><td>Están presentes todos los elementos propios de una infografía (título, cuerpo, fuentes y créditos), existe un equilibrio perfecto entre el texto y la imagen. <span>(4)</span></td><td>Están presentes todos los elementos propios de una infografía (título, cuerpo, fuentes y créditos), la información visual y textual están bastante bien  equilibradas. <span>(3)</span></td><td>Falta alguno de los elementos característicos de una infografía (título, cuerpo, fuentes o créditos) y/o no existe un buen equilibrio entre la información visual y  textual. <span>(2)</span></td><td>Solo presenta uno o dos de los elementos propios de una infografía (título, cuerpo, fuentes o créditos) y/o la información visual y textual no está equilibrada. <span>(1)</span></td></tr><tr><th>Diseño</th><td>La información está distribuida de una manera visualmente muy atractiva, la combinación de colores es muy armónica y la tipografía empleada es legible y muy apropiada. <span>(4)</span></td><td>La información está distribuida de una manera visualmente bastante atractiva, la combinación de colores es adecuada y la tipografía empleada es legible y apropiada. <span>(3)</span></td><td>La información está distribuida de una manera visualmente poco atractiva, los colores no se combinan de una manera demasiado armónica y/o la tipografía no es la más apropiada. <span>(2)</span></td><td>La información está distribuida de una visualmente nada atractiva, los colores no se combinan de manera armónica y/o la tipografía empleada es inapropiada y poco legible. <span>(1)</span></td></tr><tr><th>Contenido</th><td>En la infografía aparecen recogidos con mucha claridad  todos y cada uno de los conceptos e ideas  claves del tema. <span>(4)</span></td><td>En la infografía  aparecen recogidas con bastante claridad todas o la mayor parte de las ideas claves del tema. <span>(3)</span></td><td>En la infografía no aparecen recogidas todas las ideas claves del tema pero sí las más relevantes. <span>(2)</span></td><td>En la infografía no se reflejan la mayor parte de las ideas fundamentales del tema. <span>(1)</span></td></tr><tr><th>Elementos visuales</th><td>Todas las imágenes empleadas tienen licencia CC, poseen unas dimensiones perfectas y apoyan con total claridad el mensaje que se quiere transmitir. <span>(4)</span></td><td>Todas las imágenes empleadas tienen una licencia CC, poseen unas dimensiones adecuadas y apoyan con claridad el mensaje que se quiere transmitir. <span>(3)</span></td><td>No todas las imágenes empleadas tienen licencia CC. Además, alguna de ellas no posee las dimensiones adecuadas y/o no apoya de una manera clara el mensaje que se quiere transmitir. <span>(2)</span></td><td>La mayor parte de las imágenes no tienen licencia CC, no poseen unas dimensiones adecuadas y no se adecúan al mensaje que se quiere transmitir. <span>(1)</span></td></tr><tr><th>Corrección lingüística</th><td>No se aprecian errores ortográficos, morfosintácticos ni de puntuación. <span>(4)</span></td><td>Aparecen uno o dos errores ortográficos, morfosintácticos o de puntuación. <span>(3)</span></td><td>Aparecen tres o cuatro errores ortográficos, morfosintácticos o de puntuación. <span>(2)</span></td><td>Aparecen cinco o más errores ortográficos, morfosintácticos o de puntuación. <span>(1)</span></td></tr></tbody></table><p class="exe-rubrics-authorship"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar una infografía</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777479009740-j89hclhiu</odePageId>
+      <odeBlockId>block-1777479282697-3b30z4265</odeBlockId>
+      <blockName>Rúbrica presentación oral</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777479009740-j89hclhiu</odePageId>
+          <odeBlockId>block-1777479282697-3b30z4265</odeBlockId>
+          <odeIdeviceId>idevice-1777479282696-ejwmy5783</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Rúbrica para evaluar la exposición oral</caption><thead><tr><th>&nbsp;</th><th>4 Excelente</th><th>3 Satisfactorio</th><th>2 Mejorable</th><th>1 Insuficiente</th></tr></thead><tbody><tr><th>Habla</th><td>Habla despacio y con gran  claridad. <span>(4)</span></td><td>La mayoría del tiempo, habla despacio y con claridad. <span>(3)</span></td><td>Unas veces habla despacio y con claridad, pero otras se acelera y se le entiende mal. <span>(2)</span></td><td>Habla rápido o se detiene demasiado a la hora de hablar. Además su pronunciación no es buena. <span>(1)</span></td></tr><tr><th>Vocabulario</th><td>Usa vocabulario apropiado para la audiencia. Aumenta el vocabulario de la audiencia definiendo las palabras que podrían ser nuevas para ésta. <span>(4)</span></td><td>Usa vocabulario apropiado para la audiencia. Incluye 1-2 palabras que podrían ser nuevas para la mayor parte de la audiencia, pero no las define. <span>(3)</span></td><td>Usa vocabulario apropiado para la audiencia. No incluye vocabulario que podría ser nuevo para la audiencia. <span>(2)</span></td><td>Usa varias (5 o más) palabras o frases que no son entendidas por la audiencia. <span>(1)</span></td></tr><tr><th>Volumen</th><td>El volumen es lo suficientemente alto para ser escuchado por todos los miembros de la audiencia a través de toda la presentación. <span>(4)</span></td><td>El volumen es lo suficientemente alto para ser escuchado por todos los miembros de la audiencia al menos 90% del tiempo. <span>(3)</span></td><td>El volumen es lo suficientemente alto para ser escuchado por todos los miembros de la audiencia al menos el 80% del tiempo. <span>(2)</span></td><td>El volumen con frecuencia es muy débil para ser escuchado por todos los miembros de la audiencia. <span>(1)</span></td></tr><tr><th>Comprensión</th><td>El estudiante puede con precisión contestar casi todas las preguntas planteadas sobre el tema por sus compañeros de clase. <span>(4)</span></td><td>El estudiante puede con precisión contestar la mayoría de las preguntas planteadas sobre el tema por sus compañeros de clase. <span>(3)</span></td><td>El estudiante puede con precisión contestar unas pocas preguntas planteadas sobre el tema por sus compañeros de clase. <span>(2)</span></td><td>El estudiante no puede contestar las preguntas planteadas sobre el tema por sus compañeros de clase. <span>(1)</span></td></tr><tr><th>Postura del cuerpo y contacto visual</th><td>A la hora de hablar la postura y el gesto son muy adecuados. Mira a todos los compañeros con total naturalidad. <span>(4)</span></td><td>La mayoría del tiempo la postura y el gesto son adecuados y casi siempre mira a   los compañeros mientras habla. <span>(3)</span></td><td>Algunas veces, mantiene la postura y  el gesto adecuados, y otras no. En ocasiones mira a sus compañeros. <span>(2)</span></td><td>No mantiene la postura y gesto propios de una exposición oral y, la mayoría de las veces, no mira a sus compañeros. <span>(1)</span></td></tr><tr><th>Contenido</th><td>Demuestra un completo entendimiento del tema que expone. <span>(4)</span></td><td>Demuestra un buen entendimiento del tema que expone. <span>(3)</span></td><td>Demuestra un buen entendimiento de partes del tema que expone. <span>(2)</span></td><td>No parece entender muy bien el tema que expone. <span>(1)</span></td></tr></tbody></table><p class="exe-rubrics-authorship"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar la exposición oral</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777479009740-j89hclhiu</odePageId>
+      <odeBlockId>block-1777479445433-pydltlctb</odeBlockId>
+      <blockName>Rúbrica Actividad Wordwall</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777479009740-j89hclhiu</odePageId>
+          <odeBlockId>block-1777479445433-pydltlctb</odeBlockId>
+          <odeIdeviceId>idevice-1777479445431-srmcarioi</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Rúbrica de ejemplo (4x4)</caption><thead><tr><th>&nbsp;</th><th>Nivel 1</th><th>Nivel 2</th><th>Nivel 3</th><th>Nivel 4</th></tr></thead><tbody><tr><th>Criterios 1</th><td>Todas las preguntas están relacionadas con los cuentos y contenidos trabajados. <span>(2.5)</span></td><td>La mayoría de preguntas están relacionadas con el tema. <span>(1.75)</span></td><td>Algunas preguntas se relacionan con el tema. <span>(1.50)</span></td><td>Las preguntas apenas se relacionan con los cuentos trabajados. <span>(1.25)</span></td></tr><tr><th>Criterios 2</th><td>Las preguntas son claras, correctas y sin faltas de ortografía. <span>(2.5)</span></td><td>Las preguntas son claras y tienen pocos errores. <span>(1.75)</span></td><td>Algunas preguntas no se entienden bien o tienen varios errores. <span>(1.50)</span></td><td>Las preguntas son confusas o tienen muchos errores. <span>(1.25)</span></td></tr><tr><th>Criterios 3</th><td>El juego es visual, ordenado, con imágenes adecuadas y fácil de usar. <span>(2.5)</span></td><td>El diseño es adecuado y se entiende bien. <span>(1.75)</span></td><td>El diseño necesita mejoras para comprenderse mejor. <span>(1.50)</span></td><td>El juego está desordenado o es difícil de usar. <span>(1.25)</span></td></tr><tr><th>Criterios 4</th><td>El juego funciona perfectamente, es original y resulta divertido. <span>(2.5)</span></td><td>El juego funciona bien y es interesante. <span>(1.75)</span></td><td>El juego funciona con alguna dificultad o es poco variado. <span>(1.50)</span></td><td>El juego no funciona correctamente o no motiva a jugar. <span>(1.25)</span></td></tr></tbody></table><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777480015610-upu50rgm3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DUA</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DUA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777480015610-upu50rgm3</odePageId>
+      <odeBlockId>block-1777480018049-paqgfjosw</odeBlockId>
+      <blockName>DISEÑO UNIVERSAL PARA EL APRENDIZAJE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777480015610-upu50rgm3</odePageId>
+          <odeBlockId>block-1777480018049-paqgfjosw</odeBlockId>
+          <odeIdeviceId>idevice-1777480018047-ha2lxfg38</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las pautas del Diseño Universal para el Aprendizaje (DUA) se han tenido en cuenta a lo largo de toda la situación de aprendizaje sobre los cuentos tradicionales.</p>
+<p>En la Sesión 1, el uso de imágenes y el juego de memoria favorece la comprensión visual del alumnado, permitiendo diferentes formas de acceso a la información y mejorando la motivación mediante el aprendizaje lúdico.</p>
+<p>En la Sesión 2, la explicación de las partes del cuento se apoya en organizadores visuales (tabla e imágenes), lo que facilita la comprensión y ofrece múltiples formas de representación de la información.</p>
+<p>En la Sesión 3, la creación de la infografía permite al alumnado elegir el diseño, los colores, las imágenes y la herramienta digital, fomentando la creatividad y ofreciendo múltiples formas de expresión.</p>
+<p>En la Sesión 4 y 5, el uso de Wordwall y la exposición oral permite distintas formas de participación y comunicación, favoreciendo la implicación activa del alumnado y la motivación a través del juego y la interacción.</p>
+<p>En la Sesión 6, la autoevaluación y el crucigrama permiten reforzar el aprendizaje de forma accesible, ofreciendo diferentes formas de demostrar lo aprendido.</p>
+<p>De esta manera, se aplican los principios del DUA ofreciendo múltiples formas de representación, acción y expresión, así como diferentes formas de implicación del alumnado en su propio aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777480018047-ha2lxfg38","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las pautas del Diseño Universal para el Aprendizaje (DUA) se han tenido en cuenta a lo largo de toda la situación de aprendizaje sobre los cuentos tradicionales.</p>\n<p>En la Sesión 1, el uso de imágenes y el juego de memoria favorece la comprensión visual del alumnado, permitiendo diferentes formas de acceso a la información y mejorando la motivación mediante el aprendizaje lúdico.</p>\n<p>En la Sesión 2, la explicación de las partes del cuento se apoya en organizadores visuales (tabla e imágenes), lo que facilita la comprensión y ofrece múltiples formas de representación de la información.</p>\n<p>En la Sesión 3, la creación de la infografía permite al alumnado elegir el diseño, los colores, las imágenes y la herramienta digital, fomentando la creatividad y ofreciendo múltiples formas de expresión.</p>\n<p>En la Sesión 4 y 5, el uso de Wordwall y la exposición oral permite distintas formas de participación y comunicación, favoreciendo la implicación activa del alumnado y la motivación a través del juego y la interacción.</p>\n<p>En la Sesión 6, la autoevaluación y el crucigrama permiten reforzar el aprendizaje de forma accesible, ofreciendo diferentes formas de demostrar lo aprendido.</p>\n<p>De esta manera, se aplican los principios del DUA ofreciendo múltiples formas de representación, acción y expresión, así como diferentes formas de implicación del alumnado en su propio aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777480078872-2j0wyoo0r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LICENCIA Y DESCARGA</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LICENCIA Y DESCARGA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777480078872-2j0wyoo0r</odePageId>
+      <odeBlockId>block-1777480201155-6q3frpyfe</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777480078872-2j0wyoo0r</odePageId>
+          <odeBlockId>block-1777480201155-6q3frpyfe</odeBlockId>
+          <odeIdeviceId>idevice-1777480201141-2s0dpmd05</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Los cuentos tradicionales cobran vida 📚 </span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777480078872-2j0wyoo0r</odePageId>
+      <odeBlockId>block-1777480213060-hcoku9bue</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777480078872-2j0wyoo0r</odePageId>
+          <odeBlockId>block-1777480213060-hcoku9bue</odeBlockId>
+          <odeIdeviceId>idevice-1777480213059-wqfllwfar</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777480213059-wqfllwfar" title="" href="{{context_path}}/content/resources/Sin título.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Sin título.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777480213059-wqfllwfar","img_0":{"img":"{{context_path}}/content/resources/Sin título.png","thumbnail":"{{context_path}}/content/resources/Sin título.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
